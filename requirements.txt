@@ -2,4 +2,4 @@ flask~=2.0
 pdfplumber~=0.5
 spacy~=3.1
 requests~=2.26
-typing_extensions~=3.10
+typing_extensions==3.10.0.2
